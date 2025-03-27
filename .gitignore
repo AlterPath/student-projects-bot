@@ -1,0 +1,7 @@
+# Секреты и данные пользователей
+local_settings.py
+*.db
+
+# Python
+__pycache__/
+*.pyc
