@@ -1,7 +1,12 @@
 # Секреты и данные пользователей
 local_settings.py
+.env
 *.db
+*.db-wal
+*.db-shm
 
 # Python
 __pycache__/
 *.pyc
+.venv/
+venv/
