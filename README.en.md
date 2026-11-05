@@ -56,3 +56,7 @@ The `dbusers.db` database is created on the first run.
 ## License
 
 [MIT](LICENSE)
+
+---
+
+<sub>The code was written in March–December 2025 and published on GitHub in November 2026. Commit dates follow the dates of the original files; the README was added at publication.</sub>
